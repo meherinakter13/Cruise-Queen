@@ -123,20 +123,20 @@ nav ul li a:hover, a.active{
 }
 #book-info{
     display: none;
-    height: 600px;
-    width: 600px;
-    margin:auto;
+    height: 500px;
+    margin-top: 10%;
+    
     
 }
 .booking-details{
-    color: rgb(14, 13, 13);
+    color: honeydew;
     margin: 5%;
     text-align: center;
-    background-color: rgba(252, 241, 241, 0.993);
-    padding: 10%;
+    background-color:rgba(128, 128, 128, 0.514);
+    padding: 8%;
     
 }
 .booking-details h3{
    
-    color: rgb(56, 102, 54);
+    color: rgb(219, 235, 245)
 }
